@@ -7,5 +7,5 @@ languages:
 - name: javascript
   production:
     include:
-      - *\.vue
-      - *\.js
+      - .*\.vue
+      - .*\.js
