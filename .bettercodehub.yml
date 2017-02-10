@@ -1,0 +1,7 @@
+exclude:
+- /.eslintrc.js
+- /build/.*
+- /config/.*
+component_depth: 1
+languages:
+- javascript
