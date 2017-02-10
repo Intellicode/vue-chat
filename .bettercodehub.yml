@@ -4,4 +4,8 @@ exclude:
 - /config/.*
 component_depth: 1
 languages:
-- javascript
+- name: javascript
+  production:
+    include:
+      - *\.vue
+      - *\.js
