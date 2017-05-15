@@ -1,5 +1,7 @@
 # vue-chat
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Intellicode/vue-chat.svg)](https://greenkeeper.io/)
+
 > A vue.js chat app example
 
 ## Build Setup
