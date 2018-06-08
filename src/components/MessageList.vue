@@ -1,7 +1,7 @@
 <template>
   <ul class="messages">
      <Message v-for="item in messages" v-bind:message="item" />
-  </ul>;
+  </ul>
 </template>
 
 <script>
