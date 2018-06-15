@@ -1,7 +1,7 @@
 <template>
   <ul class="users">
     <user v-for="item in userList" v-bind:user="item"  />
-  </ul>;
+  </ul>
 </template>
 
 <script>
